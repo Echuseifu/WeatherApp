@@ -1,0 +1,23 @@
+.background {
+    background: url("https://wi-images.condecdn.net/image/doEYpG6Xd87/crop/2040/f/weather.jpg") no-repeat center fixed;
+    font-size: larger;
+    -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;;
+      padding-bottom: 13%;
+      text-align: center;
+}
+/* Footing */
+.foot {
+  display: flex;
+  border-top: 5px solid white;
+  justify-content:space-around ;
+  position: relative;
+  width: 100%;
+  font-size: xx-large;
+}
+/* To change font color in footer */
+.foot p{
+  color: white;
+}
